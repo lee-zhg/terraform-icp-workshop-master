@@ -1,0 +1,12 @@
+dn: ou=groups,dc=icp
+objectClass: organizationalunit
+objectClass: top
+ou: groups
+
+dn: cn=admgrp,ou=groups,dc=icp
+objectClass: groupOfUniqueNames
+objectClass: top
+ou: groups
+description: People who can manage accounting entries
+uniquemember: cn=Super User01,dc=icp
+cn: admgrp

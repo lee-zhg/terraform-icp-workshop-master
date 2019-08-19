@@ -1,0 +1,8 @@
+dn: cn=Super User01,dc=icp
+uid: suser001
+cn: Super User01
+sn: User01
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: aT0pSecr8t 
+

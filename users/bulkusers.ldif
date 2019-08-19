@@ -1,0 +1,240 @@
+dn: cn=dev user01,dc=icp
+uid: user01
+cn: dev user01
+sn: user01
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: n6Mqxjuw
+
+dn: cn=dev user02,dc=icp
+uid: user02
+cn: dev user02
+sn: user02
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: wHc2lIs9
+
+dn: cn=dev user03,dc=icp
+uid: user03
+cn: dev user03
+sn: user03
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: av5xHtA0
+
+dn: cn=dev user04,dc=icp
+uid: user04
+cn: dev user04
+sn: user04
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: IPwZGndw
+
+dn: cn=dev user05,dc=icp
+uid: user05
+cn: dev user05
+sn: user05
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: rbLEnigJ
+
+dn: cn=dev user06,dc=icp
+uid: user06
+cn: dev user06
+sn: user06
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: 4TRgNnUp
+
+dn: cn=dev user07,dc=icp
+uid: user07
+cn: dev user07
+sn: user07
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: aj5OZdjl
+
+dn: cn=dev user08,dc=icp
+uid: user08
+cn: dev user08
+sn: user08
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: RhznYyHj
+
+dn: cn=dev user09,dc=icp
+uid: user09
+cn: dev user09
+sn: user09
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: eT4udMmq
+
+dn: cn=dev user10,dc=icp
+uid: user10
+cn: dev user10
+sn: user10
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: dbUIS4w1
+
+dn: cn=dev user11,dc=icp
+uid: user11
+cn: dev user11
+sn: user11
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: Rfq1JxeX
+
+dn: cn=dev user12,dc=icp
+uid: user12
+cn: dev user12
+sn: user12
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: os57Wkow
+
+dn: cn=dev user13,dc=icp
+uid: user13
+cn: dev user13
+sn: user13
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: BoCeMVeJ
+
+dn: cn=dev user14,dc=icp
+uid: user14
+cn: dev user14
+sn: user14
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: B5fj8WjZ
+
+dn: cn=dev user15,dc=icp
+uid: user15
+cn: dev user15
+sn: user15
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: Ft9sBxxy
+
+dn: cn=dev user16,dc=icp
+uid: user16
+cn: dev user16
+sn: user16
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: Q0MP6asG
+
+dn: cn=dev user17,dc=icp
+uid: user17
+cn: dev user17
+sn: user17
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: MZaH768J
+
+dn: cn=dev user18,dc=icp
+uid: user18
+cn: dev user18
+sn: user18
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: VgZwTrAE
+
+dn: cn=dev user19,dc=icp
+uid: user19
+cn: dev user19
+sn: user19
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: 9ME8AftJ
+
+dn: cn=dev user20,dc=icp
+uid: user20
+cn: dev user20
+sn: user20
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: GVQBbnrV
+
+dn: cn=dev user21,dc=icp
+uid: user21
+cn: dev user21
+sn: user21
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: foNALqZz
+
+dn: cn=dev user22,dc=icp
+uid: user22
+cn: dev user22
+sn: user22
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: RISE2oOk
+
+dn: cn=dev user23,dc=icp
+uid: user23
+cn: dev user23
+sn: user23
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: IVtrc04J
+
+dn: cn=dev user24,dc=icp
+uid: user24
+cn: dev user24
+sn: user24
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: MWDrg4BU
+
+dn: cn=dev user25,dc=icp
+uid: user25
+cn: dev user25
+sn: user25
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: k8rhdGEb
+
+dn: cn=dev user26,dc=icp
+uid: user26
+cn: dev user26
+sn: user26
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: HvgMNufq
+
+dn: cn=dev user27,dc=icp
+uid: user27
+cn: dev user27
+sn: user27
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: 2jeCbxx0
+
+dn: cn=dev user28,dc=icp
+uid: user28
+cn: dev user28
+sn: user28
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: zh4uWkrH
+
+dn: cn=dev user29,dc=icp
+uid: user29
+cn: dev user29
+sn: user29
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: ZeVKqRkQ
+
+dn: cn=dev user30,dc=icp
+uid: user30
+cn: dev user30
+sn: user30
+objectClass: top
+objectClass: inetOrgPerson
+userPassword: a3eOKQge
+

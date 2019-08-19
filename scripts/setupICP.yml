@@ -1,0 +1,9 @@
+---
+- hosts: devvm
+  remote_user: root
+
+  tasks:
+  - script: ../users/icp_ldap.sh
+    args: 
+      creates: /root/icp_ldap_added
+  - script: ../users/icp_users.sh {{ count|quote }}

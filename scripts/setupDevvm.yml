@@ -1,0 +1,22 @@
+---
+- hosts: devvm
+  remote_user: root
+
+  tasks:
+  - name: copy users list to developer vm
+    copy:
+      src: users.csv
+      dest: /root/users.csv
+      owner: root
+      group: root
+      mode: 0600
+  - name: copy user provisioning script
+    copy:
+      src: ../users/provision-user-passwd.sh
+      dest: /root/provision-user-passwd.sh
+      owner: root
+      group: root
+      mode: 0750
+  - script: user_setup.sh
+    args: 
+      creates: /root/users-added

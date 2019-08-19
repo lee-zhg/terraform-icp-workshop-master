@@ -1,0 +1,29 @@
+---
+- hosts: ldap
+  remote_user: root
+
+  tasks:
+  - name: copy icp admin user 
+    copy:
+      src: ../users/susers.ldif
+      dest: /root/susers.ldif
+      owner: root
+      group: root
+      mode: 0600
+  - name: copy ldap group setup file
+    copy:
+      src: ../users/group.ldif
+      dest: /root/group.ldif
+      owner: root
+      group: root
+      mode: 0600
+  - name: copy user bulk file
+    copy:
+      src: ../users/bulkusers.ldif
+      dest: /root/bulkusers.ldif
+      owner: root
+      group: root
+      mode: 0600
+  - script: ../users/ldap_setup.sh
+    args: 
+      creates: /root/slapd.d/docker-openldap-was-started-with-tls
